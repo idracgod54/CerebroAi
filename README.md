@@ -1,4 +1,4 @@
-# 🧠 Cerebro.AI
+# 🧠 CerebroAI
 
 > *"Most AI responds. This one reflects."*
 
